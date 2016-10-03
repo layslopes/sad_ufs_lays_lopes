@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rows>
+ <Row><id_estado>1</id_estado> <sigla>AC</sigla> <estado>Acre</estado> <regiao>NORTE</regiao> </Row>
+ <Row><id_estado>2</id_estado> <sigla>AL</sigla> <estado>Alagoas</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>3</id_estado> <sigla>AP</sigla> <estado>Amap&#xe1;</estado> <regiao>NORTE</regiao> </Row>
+ <Row><id_estado>4</id_estado> <sigla>AM</sigla> <estado>Amazonas</estado> <regiao>NORTE</regiao> </Row>
+ <Row><id_estado>5</id_estado> <sigla>BA</sigla> <estado>Bahia</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>6</id_estado> <sigla>CE</sigla> <estado>Ceara</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>7</id_estado> <sigla>DF</sigla> <estado>Distrito Federal</estado> <regiao>CENTRO OESTE</regiao> </Row>
+ <Row><id_estado>8</id_estado> <sigla>ES</sigla> <estado>Esp&#xed;rito Santo</estado> <regiao>SUDESTE</regiao> </Row>
+ <Row><id_estado>9</id_estado> <sigla>GO</sigla> <estado>Goi&#xe1;s</estado> <regiao>CENTRO OESTE</regiao> </Row>
+ <Row><id_estado>10</id_estado> <sigla>MA</sigla> <estado>Maranh&#xe3;o</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>11</id_estado> <sigla>MT</sigla> <estado>Mato Grosso</estado> <regiao>CENTRO OESTE</regiao> </Row>
+ <Row><id_estado>12</id_estado> <sigla>MS</sigla> <estado>Mato Grosso do Sul</estado> <regiao>CENTRO OESTE</regiao> </Row>
+ <Row><id_estado>13</id_estado> <sigla>MG</sigla> <estado>Minas Gerais</estado> <regiao>SUDESTE</regiao> </Row>
+ <Row><id_estado>14</id_estado> <sigla>PA</sigla> <estado>Par&#xe1;</estado> <regiao>NORTE</regiao> </Row>
+ <Row><id_estado>15</id_estado> <sigla>PB</sigla> <estado>Para&#xed;ba</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>16</id_estado> <sigla>PR</sigla> <estado>Paran&#xe1;</estado> <regiao>SUL</regiao> </Row>
+ <Row><id_estado>17</id_estado> <sigla>PE</sigla> <estado>Pernambuco</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>18</id_estado> <sigla>PI</sigla> <estado>Piau&#xed;</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>19</id_estado> <sigla>RJ</sigla> <estado>Rio de Janeiro</estado> <regiao>SUDESTE</regiao> </Row>
+ <Row><id_estado>20</id_estado> <sigla>RN</sigla> <estado>Rio Grande do Norte</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>21</id_estado> <sigla>RS</sigla> <estado>Rio Grande do Sul</estado> <regiao>SUL</regiao> </Row>
+ <Row><id_estado>22</id_estado> <sigla>RO</sigla> <estado>Rond&#xf4;nia</estado> <regiao>NORTE</regiao> </Row>
+ <Row><id_estado>23</id_estado> <sigla>RR</sigla> <estado>Roraima</estado> <regiao>NORTE</regiao> </Row>
+ <Row><id_estado>24</id_estado> <sigla>SC</sigla> <estado>Santa Catarina</estado> <regiao>SUL</regiao> </Row>
+ <Row><id_estado>25</id_estado> <sigla>SP</sigla> <estado>S&#xe3;o Paulo</estado> <regiao>SUDESTE</regiao> </Row>
+ <Row><id_estado>26</id_estado> <sigla>SE</sigla> <estado>Sergipe</estado> <regiao>NORDESTE</regiao> </Row>
+ <Row><id_estado>27</id_estado> <sigla>TO</sigla> <estado>Tocantins</estado> <regiao>NORTE</regiao> </Row>
+</Rows>

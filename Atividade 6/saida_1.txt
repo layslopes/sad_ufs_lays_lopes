@@ -1,0 +1,28 @@
+id_estado;sigla;estado;regiao
+1;AC;Acre;NORTE
+2;AL;Alagoas;NORDESTE
+3;AP;Amapá;NORTE
+4;AM;Amazonas;NORTE
+5;BA;Bahia;NORDESTE
+6;CE;Ceara;NORDESTE
+7;DF;Distrito Federal;CENTRO OESTE
+8;ES;Espírito Santo;SUDESTE
+9;GO;Goiás;CENTRO OESTE
+10;MA;Maranhão;NORDESTE
+11;MT;Mato Grosso;CENTRO OESTE
+12;MS;Mato Grosso do Sul;CENTRO OESTE
+13;MG;Minas Gerais;SUDESTE
+14;PA;Pará;NORTE
+15;PB;Paraíba;NORDESTE
+16;PR;Paraná;SUL
+17;PE;Pernambuco;NORDESTE
+18;PI;Piauí;NORDESTE
+19;RJ;Rio de Janeiro;SUDESTE
+20;RN;Rio Grande do Norte;NORDESTE
+21;RS;Rio Grande do Sul;SUL
+22;RO;Rondônia;NORTE
+23;RR;Roraima;NORTE
+24;SC;Santa Catarina;SUL
+25;SP;São Paulo;SUDESTE
+26;SE;Sergipe;NORDESTE
+27;TO;Tocantins;NORTE
